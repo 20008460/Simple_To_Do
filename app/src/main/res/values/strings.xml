@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="add">ADD</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="resultEmptyList">You do not have any task to be removed</string>
+    <string name="resultIndextOut">Wrong index number</string>
+    <string name="resultSuccessfullyDeleted">Successfully deleted</string>
+    <string name="hintNewTask">Type in a new task here</string>
+    <string name="hintRemoved">Type in the index of the task to be removed</string>
+    <string name="addSuccess">Successfully entered</string>
+    <string name="addFail">Nothing is entered</string>
+    <string name="emptyIndexInput">Please key in index to be deleted</string>
+    <string-array name="spinnerItems">
+        <item>Add a new task</item>
+        <item>Remove a new task</item>
+    </string-array>
+</resources>
